@@ -1,0 +1,54 @@
+.cafe {
+    display: flex;
+    flex-direction: column;
+    color:tomato;
+    cursor: pointer;
+}
+
+.cafe span {
+    font-size: 14px;
+    margin-top: 5px;
+    position:relative;
+    left:-8px;
+}
+
+#cafe-a {
+    position:relative;
+    right:-270px;
+    bottom:-80px;
+}
+
+#cafe-b {
+    position:relative;
+    right:-240px;
+    bottom:-300px;
+}
+
+#cafe-b span {
+    position:relative;
+    left:-17px;
+}
+
+#cafe-c {
+    position:relative;
+    right:-70px;
+    bottom:-100px;
+}
+
+
+.app-number_bubble i {
+    color:rgba(0,0,0,0.7);
+}
+
+.app-number_bubble span {
+    color:white;
+    font-size: 20px;
+    position: relative;
+    top:-16px;
+    left:-39px;
+}
+
+#cafe-b__bubble span {
+    position: relative;
+    left:-39px;
+}
